@@ -9,9 +9,14 @@ This project is based on the "ThreeDPoseUnityBarracuda”, developed by Hinori (
 
 In this project you can add easly a 3d model, following the next steps:
 
-1. Open SampleScene from Scenes folder
-2. Add 3d model with rigging (bones for al the body include hands finger bones) in Unity project.
-3. Modify the features of the rigging, using the tool Rig/Configure of Unity.
-4. The bones are automatically associated with the components of the 3d model.
-5. Put the 3d model on the scene and add the script VNectModel to the 3d model.
-6. On BarracudaRunner Object in inspector select the new 3d model on VNectModel section.
+1. Download file .onnx model: https://drive.google.com/file/d/1yviZ3Mze8MNf2TYpYA12_p66YOzfkmvY/view?usp=sharing
+2. Copy the file .onnx on folder:  BarracudaBodyTracking\Assets\Scripts\Model
+3. Open SampleScene from Scenes folder
+4. Unity -> Play
+
+If you like to change model 3d Avatar you nedd:
+1. Add 3d model with rigging (bones for al the body include hands finger bones) in Unity project.
+2. Modify the features of the rigging, using the tool Rig/Configure of Unity.
+3. The bones are automatically associated with the components of the 3d model.
+4. Put the 3d model on the scene and add the script VNectModel to the 3d model.
+5. On BarracudaRunner Object in inspector select the new 3d model on VNectModel section.
