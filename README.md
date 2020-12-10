@@ -14,7 +14,7 @@ In this project you can add easly a 3d model, following the next steps:
 3. Open SampleScene from Scenes folder
 4. Unity -> Play
 
-If you like to change model 3d Avatar you nedd:
+If you like to change model 3d Avatar you need:
 1. Add 3d model with rigging (bones for al the body include hands finger bones) in Unity project.
 2. Modify the features of the rigging, using the tool Rig/Configure of Unity.
 3. The bones are automatically associated with the components of the 3d model.
