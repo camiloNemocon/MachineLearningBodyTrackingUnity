@@ -12,7 +12,8 @@ In this project you can add easly a 3d model, following the next steps:
 1. Download file .onnx model: https://drive.google.com/file/d/1yviZ3Mze8MNf2TYpYA12_p66YOzfkmvY/view?usp=sharing
 2. Copy the file .onnx on folder:  BarracudaBodyTracking\Assets\Scripts\Model
 3. Open SampleScene from Scenes folder
-4. Unity -> Play
+4. Put the .onnx file into NNModel checkbox, ininspector of BarracudaRunner Component of the herarchy (https://drive.google.com/drive/folders/1CG-R0I8QfW8EGsgMyWn7Yk1pwOeK2DR9?usp=share_link)
+5. Unity -> Play
 
 If you like to change model 3d Avatar you need:
 1. Add 3d model with rigging (bones for al the body include hands finger bones) in Unity project.
