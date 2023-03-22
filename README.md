@@ -7,6 +7,11 @@ through Barracuda, using a training model (https://digital-standard.com/threedpo
 
 This project is based on the "ThreeDPoseUnityBarracuda”, developed by Hinori (https://github.com/digital-standard/ThreeDPoseUnityBarracuda).
 
+
+This is the new tutorial with unity package to Unity 2021:
+https://youtu.be/p-ZyqOd9Wqs
+
+This is the steps for Unity 2019
 In this project you can add easly a 3d model, following the next steps:
 
 1. Download file .onnx model: https://drive.google.com/file/d/1yviZ3Mze8MNf2TYpYA12_p66YOzfkmvY/view?usp=sharing
